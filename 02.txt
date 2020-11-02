@@ -1,0 +1,11 @@
+Lo siguiente a tener en cuenta es que si bien la forma más fácil es partiendo desde el archivo de muestra,
+ pero igual se pueden eleguir las siguientes dos formas, la primera para ambiente de desarrollo 
+ y la segunda para producción.
+
+<!-- development version, includes helpful console warnings -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+
+o:
+
+<!-- production version, optimized for size and speed -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
